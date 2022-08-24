@@ -1,0 +1,6 @@
+Rules:
+1)The winner of the toss will decides who gets the first batting
+2)You can select only the numbers (1-6 or 10) while playing the game.
+3)If your batting number and the computer balling number are same then you are out or vice versa.
+4)You win the game, If you score more than the computer.
+5)You lose the game, If the computer score more than you.
