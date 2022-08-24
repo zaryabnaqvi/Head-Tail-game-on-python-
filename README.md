@@ -11,3 +11,8 @@ This is my first project on python and show my skills regarding fundamentals of 
 ### Description
 This game ask for the name of the player and then start the game according to the rules which is given in the "rules.txt" and then if 
 player is score more the number written in "hi-score.txt" its will update high-score through Filing Process .
+
+
+### Co-authors
+<p><a href="https://github.com/NamraMuneer">NamraMuneer</a></p>
+<p><a href="https://github.com/Ahmedsiddiqui7">AhmedSiddiqui7</a></p>
